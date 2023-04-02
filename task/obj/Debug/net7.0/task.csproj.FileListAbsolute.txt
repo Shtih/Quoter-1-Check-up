@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/Quter test/task/bin/Debug/net7.0/task
+/Users/juliashtih/Documents/Quter test/task/bin/Debug/net7.0/task.deps.json
+/Users/juliashtih/Documents/Quter test/task/bin/Debug/net7.0/task.runtimeconfig.json
+/Users/juliashtih/Documents/Quter test/task/bin/Debug/net7.0/task.dll
+/Users/juliashtih/Documents/Quter test/task/bin/Debug/net7.0/task.pdb
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/task.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/task.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/task.AssemblyInfo.cs
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/task.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/task.dll
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/refint/task.dll
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/task.pdb
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/task.genruntimeconfig.cache
+/Users/juliashtih/Documents/Quter test/task/obj/Debug/net7.0/ref/task.dll
